@@ -1,7 +1,7 @@
-# REST API
+# RESTful API
 
 ## General Info
-This is backend REST API services in Node.js
+This is backend RESTful services in Node.js
 
 ### Technologies
 Project is created with
